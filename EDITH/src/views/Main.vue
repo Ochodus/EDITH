@@ -3,7 +3,9 @@
 
 <template>
   <header>
-    <router-view />
+    <div id="nav">
+      ssssssssssssss
+    </div>  
   </header>
 </template>
 
